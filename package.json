@@ -1,0 +1,22 @@
+{
+  "name": "koa-huiji-signature",
+  "version": "1.0.0",
+  "description": "koa middleware for validate huiji webhook signature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuijiWiki/koa-huiji-signature.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "mudkipme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HuijiWiki/koa-x-hub/issues"
+  },
+  "homepage": "https://github.com/HuijiWiki/koa-x-hub#readme"
+}
